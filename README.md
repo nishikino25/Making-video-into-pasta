@@ -16,5 +16,5 @@ Source: https://github.com/tjwhitaker/a-neural-algorithm-of-artistic-style
 - [Matplotlib 3.0](https://matplotlib.org/)
 
 ## Running
-
-Results will be saved in `/output`
+use jupyter Notebook run all cells in `Final Project.ipynb` file.
+And the results will be saved in `/output`
